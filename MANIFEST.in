@@ -1,0 +1,3 @@
+include requirements/*.txt
+recursive-include vvdet3d/.mim/configs *.py *.yml
+recursive-include vvdet3d/.mim/tools *.sh *.py
